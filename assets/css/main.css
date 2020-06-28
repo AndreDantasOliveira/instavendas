@@ -2904,16 +2904,16 @@
 			}
 
 		.wrapper.style1 {
-			background-color: #fafafa;
-			color: #999999;
+			background-color: #000000;
+			color: #fafafa;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
-				color: #000;
+				color: rgb(255, 255, 255);
 			}
 
 			.wrapper.style1 a {
-				color: #000;
+				color: #fafafa;
 			}
 
 				.wrapper.style1 a:hover {
@@ -2921,11 +2921,11 @@
 				}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #000;
+				color: #fafafa;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #000;
+				color: #fafafa;
 			}
 
 			.wrapper.style1 blockquote {
@@ -3116,8 +3116,8 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
-			color: #aed6f1;
+			background-color: #000000;
+			color: #fff;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3328,7 +3328,7 @@
 			}
 
 			.wrapper.style2 .image {
-				box-shadow: 0px 0px 0px 7px #3498db, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
+				box-shadow: 0px 0px 0px 7px #fff, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
 			}
 
 		@media screen and (max-width: 1280px) {
